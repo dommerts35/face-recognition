@@ -1,2 +1,2 @@
-# face-recognition
-Face recognition app
+# Face-Recognition
+Aplicación de reconocimiento de rostros usando Python
